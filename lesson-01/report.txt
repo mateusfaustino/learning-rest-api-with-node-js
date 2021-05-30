@@ -1,5 +1,10 @@
 lesson 01:
 In this lesson i've learned:
 
-- What is Node js and why should I use it
-- What is NPM
+- What is Node js and why should I use it;
+- What is NPM;
+- How to download and install Node Js;
+- How to init a Node project with npm init;
+- What is the package.json;
+- Creating Entry point index.js;
+- How to create a route;
