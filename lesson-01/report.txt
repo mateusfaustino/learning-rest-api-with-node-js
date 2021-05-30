@@ -1,0 +1,5 @@
+lesson 01:
+In this lesson i've learned:
+
+- What is Node js and why should I use it
+- What is NPM
