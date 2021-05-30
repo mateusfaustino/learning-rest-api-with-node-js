@@ -1,0 +1,7 @@
+lesson 02:
+In this lesson i've learned:
+
+- How to orginize my project;
+- what is consign and why should I use this;
+- what is the diference between the methods get and post;
+- How to download the potsman;
