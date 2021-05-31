@@ -5,3 +5,4 @@ In this lesson i've learned:
 - what is consign and why should I use this;
 - what is the diference between the methods get and post;
 - How to download the potsman;
+- body parser
