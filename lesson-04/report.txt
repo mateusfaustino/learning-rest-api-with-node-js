@@ -1,7 +1,5 @@
 lesson 02:
 In this lesson i've learned:
 
-- Mysql Database;
-- infraestrutura folder;
-- How to conect database and create a table
-- How to insert data in database
+- How to work with dates;
+- The library moment;
