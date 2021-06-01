@@ -5,7 +5,6 @@ const conection = mysql.createConnection({
     user:'root',
     password:'1234',
     database:'agenda-petshop'
-
 })
 
 module.exports = conection;
