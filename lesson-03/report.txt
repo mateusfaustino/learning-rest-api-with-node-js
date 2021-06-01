@@ -1,4 +1,4 @@
-lesson 02:
+lesson 03:
 In this lesson i've learned:
 
 - Mysql Database;
