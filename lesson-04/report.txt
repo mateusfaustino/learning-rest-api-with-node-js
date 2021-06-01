@@ -3,3 +3,4 @@ In this lesson i've learned:
 
 - How to work with dates;
 - The library moment;
+- HTTP Status
