@@ -1,0 +1,30 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusfaustino/learning-rest-api-with-node-js.git"
+  },
+  "author": "Mateus Faustino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusfaustino/learning-rest-api-with-node-js/issues"
+  },
+  "homepage": "https://github.com/mateusfaustino/learning-rest-api-with-node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
